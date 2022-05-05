@@ -33,5 +33,5 @@
 
 * 개발자 도구  단축키 f12 , 맥북 command+option+i
 * 개발자 도구  -> Elements -> ctrl + f  -> favicon 검색 -> 코드 copy ->  주소 copy -> \
-  이미지  html 폴더에 함께 저  &#x20;
+  이미지  html 폴더에 함께 저
 
