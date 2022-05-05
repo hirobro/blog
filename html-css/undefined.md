@@ -1,6 +1,6 @@
 # 태그 구조 이해하기
 
-## &#x20;태그 구조 설
+## &#x20;태그 구조 설명 &#x20;
 
 ```html
 <!doctype html>
@@ -19,16 +19,16 @@
 
 ```html
 <!doctype html>
-    <html>
-        <head>
-            <meta charset="utf-8" />
-            <title>naver</title>
-            <Link rel "shortcut icon" type="image/x-icon" href="./favicon.ico?1">
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>naver</title>
+        <link rel = "shortcut icon" type="image/x-icon" href="./favicon.ico?1">
                                                         <!-- ./  현재 폴더 -->
-        </head>
+    </head>
         <body>
         </body>
-    </html>
+</html>
 ```
 
 * 개발자 도구  단축키 f12 , 맥북 command+option+i
