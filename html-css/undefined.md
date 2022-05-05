@@ -26,8 +26,8 @@
         <link rel = "shortcut icon" type="image/x-icon" href="./favicon.ico?1">
                                                         <!-- ./  현재 폴더 -->
     </head>
-        <body>
-        </body>
+    <body>
+    </body>
 </html>
 ```
 
