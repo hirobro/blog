@@ -4,7 +4,7 @@
 
 * 개발자 도구 Console 박스 클릭
 * &#x20;document.head.parentNode.removeChild(document.head);  입력&#x20;
-* head 태그 사라짐 -> css도 같이&#x20;
+* head 태그 사라짐 -> css도&#x20;
 
 ## heading 태그&#x20;
 
