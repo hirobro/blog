@@ -6,5 +6,5 @@
 
 * [HTML/CSS 이해하기](html-css/01.md)
 * [태그 구조 이해하기](html-css/02.md)
-* [heading 태그 알아보기](html-css/heading.md)
-* [주석, a,fieldset,input,button](html-css/a-fieldset-input-button.md)
+* [heading 태그 알아보기](html-css/03.md)
+* [주석, a,fieldset,input,button](html-css/04.md)
