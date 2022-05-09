@@ -1,5 +1,5 @@
 ---
-description: https://developer.mozilla.org/ko/docs...
+description: https://developer.mozilla.org/ko/docs/Web/HTML/Element
 ---
 
 # HTML태그들
