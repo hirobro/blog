@@ -15,7 +15,7 @@ description: https://developer.mozilla.org/ko/docs/Web/HTML/Element
 ![](../.gitbook/assets/image.png)div태그를 남발하는 경우보다는 semantic tags 를 이용한
 
 ![](<../.gitbook/assets/image (2).png>)\
-
+출처:youtube 드림코
 
 * header: 브랜드 로고, 중요한메뉴
 * nav : header안에 여러 메뉴들은 nav태그사용
