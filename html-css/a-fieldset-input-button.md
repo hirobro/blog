@@ -1,10 +1,6 @@
----
-description: 주석 a,fieldset,input,button 알아보기
----
-
 # 주석, a,fieldset,input,button
 
-## a태그 와&#x20;
+## a태그 와  주석&#x20;
 
 ```html
                      <!--주석(comment)--!>    
@@ -30,5 +26,9 @@ description: 주석 a,fieldset,input,button 알아보기
 
 ```html
 <fieldset>
-    <legend><    
+    <legend><legend>
+    <input />
+    <button></button>        
+    <!--button태그는 클릭이 되는 버튼 태그 손가락 모양으로 바뀌지 않음--!>
+</fieldset>
 ```
