@@ -11,4 +11,4 @@
 * **태그는 h1\~ h6** **중요도 순서  ( chrome 확장 프로그램  headingsmap )**
 * **숫자가 높을수록 중요도 와 글씨 크기가 줄어듬**
 
-****<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">  **네이버 사이트의 중요도 순으로 h1,h2, 나열된 것 을 볼 수 있다**
+****<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">  **네이버 사이트의 중요도 순으로 h1,h2, 나열된 것 을 볼 수 있다**
