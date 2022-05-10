@@ -58,7 +58,7 @@ description: https://developer.mozilla.org/ko/docs/Web/HTML/Element
 * button:사용자의 특정한 액션은
 * a:어디론가 이동할때 (링크)
 
-table태그,css차이
+### table태그,css차이
 
 * table:행 +열 데이터가 필요할때만  단순히 그리드형식일경우는 css(flex,grid)를이용한다&#x20;
 * 자체적으로 문서안에 의미가 필요한지 효과를 주기 위한건지 판단하자
