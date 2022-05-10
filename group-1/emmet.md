@@ -1,6 +1,9 @@
 # Emmet, HTML 빠르게 마크업하기
 
+## 주석처리된 부분 입력시 아래 태그가 입력
+
 ```html
+
 <!-- ! -->>
 <!DOCTYPE html>
 <html lang="en">
