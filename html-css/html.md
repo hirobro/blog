@@ -14,9 +14,9 @@
 
 ### div-> semantic tags
 
-[![](https://github.com/hirobro/blog/raw/master/.gitbook/assets/image.png)](../.gitbook/assets/image.png)div태그를 남발하는 경우보다는 semantic tags 를 이용한
+![](https://github.com/hirobro/blog/raw/master/.gitbook/assets/image.png)div태그를 남발하는 경우보다는 semantic tags 를 이용한
 
-[![](https://github.com/hirobro/blog/raw/master/.gitbook/assets/image%20\(2\).png)](../.gitbook/assets/image%20\(2\).png)\
+![](https://github.com/hirobro/blog/raw/master/.gitbook/assets/image%20\(2\).png)\
 출처:youtube 드림코딩
 
 * header: 브랜드 로고, 중요한메뉴
