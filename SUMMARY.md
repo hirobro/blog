@@ -9,8 +9,8 @@
 * [heading 태그 알아보기](html-css/heading.md)
 * [주석, a,fieldset,input,button](html-css/04.md)
 * [리스트와 이미지 태그](html-css/05.md)
+* [레이아웃 방법,html태그들](html-css/html.md)
 
 ## Group 1
 
 * [Emmet, HTML 빠르게 마크업하기](group-1/emmet.md)
-* [HTML태그들](group-1/html.md)
