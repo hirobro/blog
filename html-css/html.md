@@ -2,7 +2,9 @@
 
 
 
-## HTML태그들
+## HTML태그 참조&#x20;
+
+[https://developer.mozilla.org/ko/docs/Web/HTML/Element](https://developer.mozilla.org/ko/docs/Web/HTML/Element) &#x20;
 
 ### SEMANTIC TAGS
 
