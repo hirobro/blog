@@ -9,8 +9,10 @@
 * [heading 태그 알아보기](html-css/heading.md)
 * [주석, a,fieldset,input,button](html-css/04.md)
 * [리스트와 이미지 태그](html-css/05.md)
-* [레이아웃 방법,html태그들](html-css/html.md)
+* [레이아웃 방법,html태그들](html-css/06.md)
+* [css 선택자](html-css/css.md)
 * [클래스 이미지 스프라이트](html-css/undefined.md)
+* [백그라운드와 박스 모델](html-css/undefined-1.md)
 
 ## Group 1
 
