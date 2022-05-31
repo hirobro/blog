@@ -4,10 +4,10 @@
 
 ## fc
 
-- [html,css,js](/Users/minnsane/blog/fc/fc01.md/fc01.md)
-- [웹앱의 동작원리](/Users/minnsane/blog/fc/fc02.md/fc02.md)
-- [웹 표준과 브라우저](/Users/minnsane/blog/fc/fc03.md/fc03.md)
-- [웹에서 사용하는 이미지](/Users/minnsane/blog/fc/fc04.md/fc04.md)
+- [html,css,js](fc/fc01.md)
+- [웹앱의 동작원리](fc/fc02.md)
+- [웹 표준과 브라우저](fc/fc03.md)
+- [웹에서 사용하는 이미지](fc/fc04.md)
 
 ## HTML / CSS
 
